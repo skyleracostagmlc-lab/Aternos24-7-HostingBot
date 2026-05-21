@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "gulper.aternos.host:50480",
+    "port": 50480,
     "version": "",
     "try-creative": false
   },
